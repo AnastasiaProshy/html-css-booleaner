@@ -20,3 +20,37 @@ main {
 .gray {
     color: gray;
 }
+
+.blue {
+    color: #9cd6f4;
+}
+
+.touch {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.list {
+    padding: 16px;
+}
+
+.table-heading {
+    background-color: #7fa6fb;
+    color: white;
+}
+
+.table-head-cell {
+    padding-left: 0;
+}
+
+.table-line {
+    background-color: #dfe5f2;
+}
+
+.table-middle-line {
+    background-color: ffffff;
+}
+
+.space {
+    padding-right: 50px;
+}
