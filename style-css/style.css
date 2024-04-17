@@ -1,6 +1,6 @@
 header {
     background-color: #9cd6f4;
-    padding-left: 16px;
+    padding-left: 20px;
     padding-bottom: 30px;
     padding-top: 30px;
 }
@@ -14,20 +14,27 @@ body {
 }
 
 main {
-    padding: 30px 16px;
+    padding: 10px 20px;
 }
 
-.gray {
-    color: gray;
+.header {
+    margin-bottom: 0%;
 }
+
+.Header-text {
+    color: gray;
+
+}
+
 
 .blue {
-    color: #9cd6f4;
+    color: #7fa6fb;
 }
 
+
 .touch {
-    padding-top: 0;
-    padding-bottom: 0;
+    font-size: 13px;
+    margin-top: 0;
 }
 
 .list {
@@ -40,7 +47,7 @@ main {
 }
 
 .table-head-cell {
-    padding-left: 0;
+    text-align: left;
 }
 
 .table-line {
@@ -51,6 +58,20 @@ main {
     background-color: ffffff;
 }
 
+/* !!!error space table */
 .space {
-    padding-right: 50px;
+    padding: 15px 200px 15px;
+    
+}
+
+.top {
+    padding-bottom: 35px;
+}
+
+footer {
+    background-color: #313a6b;
+    text-align: center;
+    color: white;
+    padding-top: 17px;
+    padding-bottom: 17px;
 }
