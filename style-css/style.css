@@ -12,3 +12,11 @@ header .logo {
 body {
     margin: 0;
 }
+
+main {
+    padding: 30px 16px;
+}
+
+.gray {
+    color: gray;
+}
